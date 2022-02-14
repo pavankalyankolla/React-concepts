@@ -1,0 +1,14 @@
+1)install axios and react-router
+2)added semantic cdn in index.html
+3)install redux and react-redux
+4)created container and redux folders
+5) In redux --> Actions,constants,reducers folders and store file
+6)create file in actions and constant folder
+7)add some required constants and add actions
+8)create new file in reducers and index.js 
+9) after adding reducer, combine all reducers in index.js
+10) import reducer and create store
+
+11) added redux extension in store file
+
+import provider in index.js and connect the redux
